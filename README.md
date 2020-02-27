@@ -1,6 +1,8 @@
 
 # Boostrap 4 Github Pages
 
+Theme Reference [Slate](https://bootswatch.com/slate/)
+
 [![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
