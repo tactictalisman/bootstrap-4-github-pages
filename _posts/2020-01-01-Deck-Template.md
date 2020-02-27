@@ -12,8 +12,12 @@ A new post to test.
 - Theme
 - Deck Link
 
-## Theme
+## Theme/Goal
 
+## Combos Stragtegies
+### Strategy 1
+### Combo 1
+## Decklist
 ```
 Deck List
 These
