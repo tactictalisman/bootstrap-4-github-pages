@@ -5,7 +5,7 @@ title: Code Test
 
 A new post to test.
 
-- Commander [Scryfall](scryfall.com)
+- Commander [Scryfall](http://www.scryfall.com)
 - Colors
 - Ranks 1 Pile to 10 Competitive
 - Budget
