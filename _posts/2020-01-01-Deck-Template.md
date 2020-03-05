@@ -5,11 +5,11 @@ title: Code Test
 
 A new post to test.
 
-- Commander [](scryfall.com)
+- Commander [Scryfall](scryfall.com)
 - Colors
 - Ranks 1 Pile to 10 Competitive
 - Budget
-- Deck Link []()
+- Deck Link [#](#)
 
 ## Theme/Goal
 
