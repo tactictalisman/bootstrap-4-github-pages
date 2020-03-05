@@ -5,18 +5,20 @@ title: Code Test
 
 A new post to test.
 
-- Name
+- Commander ()[scryfall.com]
+- Colors
 - Ranks 1 Pile to 10 Competitive
 - Budget
-- Colors
-- Theme
-- Deck Link
+- Deck Link ()[#]
 
 ## Theme/Goal
 
-## Combos Stragtegies
-### Strategy 1
-### Combo 1
+## Strategy
+
+### Deginerate Combo X
+
+### Speed Combo Y
+
 ## Decklist
 ```
 Deck List
