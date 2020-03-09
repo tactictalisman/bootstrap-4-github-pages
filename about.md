@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Tactic Talisman is place for me to record my thoughts, as I write things down it helps me to remember and learn.
+Tactic Talisman is blog where I post my thoughts and experiences on my various hobbies and interests. I find that as I write things down it helps me to remember and learn.
