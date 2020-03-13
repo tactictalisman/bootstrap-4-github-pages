@@ -5,10 +5,10 @@ title: Empire of Angels
 
 Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
-- **Commander** (Trostani, Selesnya's Voice)[https://scryfall.com/card/gk1/102/trostani-selesnyas-voice]
+- **Commander** [Trostani, Selesnya's Voice](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice)
 - **Colors** Green and White 
 - **Ranking** 6 out of 10
-- **Deck** (Tappedout)[https://tappedout.net/mtg-decks/empire-of-angels/]
+- **Deck** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
 
 ## Theme
 
