@@ -20,7 +20,7 @@ The deck is a slow burn we play very defensively building our board state of enc
 
 ## Strategy
 Phase One: Call the Heavens
-Get the enchantment draw engine up and running. If we get a token engine up, play (Trostani, Selesnya's Voice)[https://scryfall.com/card/gk1/102/trostani-selesnyas-voice] to populate and gain life.
+Get the enchantment draw engine up and running. If we get a token engine up, play [Trostani, Selesnya's Voice](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice) to populate and gain life.
 ```
 Enchantress's Presence
 ```
