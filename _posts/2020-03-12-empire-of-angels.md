@@ -10,7 +10,7 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 - **Ranking** 6 out of 10
 - **Deck** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
 
-## Theme
+### Theme
 
 Original this deck came about, as I wanted to build a deck for my wife. She does not really care for some of the creepy art that some of the cards have so I thought a green white token flavor might be in order. Then listening to Empire of Angels from two steps from hell gave me some inspirational energy.
 
@@ -18,7 +18,7 @@ What about a go wide token deck with a little bit of a twist? Instead of 1/1 tok
 
 The deck is a slow burn we play very defensively building our board state of enchantment goodness until we can strike from a position of strength.
 
-## Strategy
+### Strategy
 Phase One: Call the Heavens
 Get the enchantment draw engine up and running. If we get a token engine up, play [Trostani, Selesnya's Voice](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice) to populate and gain life.
 ```
