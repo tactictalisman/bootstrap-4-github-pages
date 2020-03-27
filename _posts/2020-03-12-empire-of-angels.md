@@ -10,6 +10,8 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 - **Ranking** 6 out of 10
 - **Deck** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
 
+![Trostani]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){: .center-image }
+
 ### Theme
 
 Original this deck came about, as I wanted to build a deck for my wife. She does not really care for some of the creepy art that some of the cards have so I thought a green white token flavor might be in order. Then listening to Empire of Angels from two steps from hell gave me some inspirational energy.
