@@ -14,9 +14,9 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
 ![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:class="img-responsive"}
 
-![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="50%" width="50%"}
+![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}
 
-![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="700px" width="400px"}
+![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="488px" width="680px"}
 
 ### Theme
 
