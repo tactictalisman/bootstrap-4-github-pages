@@ -12,6 +12,12 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
 ![Trostani]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){: .center-image }
 
+![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:class="img-responsive"}
+
+![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="50%" width="50%"}
+
+![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="700px" width="400px"}
+
 ### Theme
 
 Original this deck came about, as I wanted to build a deck for my wife. She does not really care for some of the creepy art that some of the cards have so I thought a green white token flavor might be in order. Then listening to Empire of Angels from two steps from hell gave me some inspirational energy.
