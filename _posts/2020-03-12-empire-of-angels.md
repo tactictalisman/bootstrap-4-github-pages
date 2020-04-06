@@ -10,7 +10,7 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 - **Ranking:** 6 out of 10
 - **Deck:** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
 
-![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}
+[![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice)
 
 ### Theme
 
