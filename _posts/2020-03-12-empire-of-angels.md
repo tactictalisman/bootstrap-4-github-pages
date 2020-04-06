@@ -5,25 +5,12 @@ title: Empire of Angels
 
 Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
-- **Commander** [Trostani, Selesnya's Voice](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice)
-- **Colors** Green and White 
-- **Ranking** 6 out of 10
-- **Deck** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
-
-![Trostani]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){: .center-image }
-
-![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:class="img-responsive"}
+- **Commander:** [Trostani, Selesnya's Voice](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice)
+- **Colors:** Green and White 
+- **Ranking:** 6 out of 10
+- **Deck:** [Tappedout](https://tappedout.net/mtg-decks/empire-of-angels/)
 
 ![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}
-
-![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="488px" width="680px"}
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| ![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}      | ![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"} | ![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"} |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 ### Theme
 
