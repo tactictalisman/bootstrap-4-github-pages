@@ -6,7 +6,7 @@ title: Friday Update #1
 Quarantine continues I was thinking about making an update post every Friday to help me organize my thoughts and get in the habit of posting again.
 
 ## Magic
-As far as this week's endeavors I finally pulled the trigger and picked up yawgmoth. He had been trending down in price for the last couple months when I noticed he bottomed out at around 10 on tcgplayer. Then I noticed cardkingdom had him for 9.99 and tcgplayer had bumped to around 13 so it felt like a bottom for now.
+As far as this week's endeavors I finally pulled the trigger and picked up [Yawgmoth, Thran Physician](https://scryfall.com/card/mh1/116/yawgmoth-thran-physician). He had been trending down in price for the last couple months when I noticed he bottomed out at around 10 on tcgplayer. Then I noticed cardkingdom had him for 9.99 and tcgplayer had bumped to around 13 so it felt like a bottom for now.
 
 As a whole the market seems to be stabilizing after last months drop from the pandemic. I checked Khan's Fetches this morning and they had all up ticked 2 to 3 dollars on tcgplayer from their lows two weeks ago. Note stimulus checks landed in accounts the past couple days.
 
