@@ -19,9 +19,7 @@ I finished up the weld seams on my tiger 1 and have moved on to preparing the wh
 I started reading Starsight by Brandon Sanderson this week. Even though I am stuck at home I still can't quit find enough time to read.
 
 ##### Video Games
-Not much to talk about here my wife has needed the PC at nights to work so I haven't had any time to get on.
-
-I am thinking about playing some EU4 if I can get some time in.
+Not much to talk about here my wife has needed the PC at nights to work so I haven't had any time to get on. I am thinking about playing some EU4 if I can get some time in.
 
 
 Quarantine drags on I have been home from work for five weeks now I think. Starting to lose track. It looks like at least another couple weeks before I can get back.
