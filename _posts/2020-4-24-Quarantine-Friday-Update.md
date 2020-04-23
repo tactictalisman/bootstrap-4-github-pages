@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quarantine Week 6 : Friday Update
+title: Quarantine Week 6 Friday Update
 ---
 
 Quarantine week six or at least the sixth week I have been working remote from home.
