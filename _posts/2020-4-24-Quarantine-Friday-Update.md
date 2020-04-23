@@ -18,4 +18,4 @@ Picked up two games during the steam midweek sale [Homeworld Remastered](https:/
 
 Stay safe out there.
 
-Friday Updates
+[Read more Friday Update Posts](https://tactictalisman.github.io/friday/)
