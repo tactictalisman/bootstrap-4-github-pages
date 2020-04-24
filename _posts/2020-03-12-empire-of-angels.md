@@ -15,8 +15,8 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 <div class="row">
   <div class="col-md-2"></div>
   <div class="col-md-10">
-    <a href="">
-     <img src="{{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg" class="img-responsive img-rounded" alt="Cinque Terre">
+    <a href="#">
+     <img src="{{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg" class="img-responsive img-rounded" alt="Trostani, Selesnya's Voice">
     </a>
   </div>
   <div class="col-md-2"></div>
