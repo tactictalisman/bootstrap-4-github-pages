@@ -12,6 +12,17 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
 [![test image size]({{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg){:height="25%" width="25%"}](https://scryfall.com/card/gk1/102/trostani-selesnyas-voice)
 
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-10">
+    <a href="">
+     <img src="{{ site.baseurl }}/images/gk1-102-trostani-selesnya-s-voice.jpg" class="img-responsive img-rounded" alt="Cinque Terre">
+    </a>
+  </div>
+  <div class="col-md-2"></div>
+</div>
+
+
 ##### Theme
 
 Original this deck came about, as I wanted to build a deck for my wife. She does not really care for some of the creepy art that some of the cards have so I thought a green white token flavor might be in order. Then listening to Empire of Angels from two steps from hell gave me some inspirational energy.
