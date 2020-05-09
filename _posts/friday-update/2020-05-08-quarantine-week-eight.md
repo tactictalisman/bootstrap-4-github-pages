@@ -3,8 +3,6 @@ layout: post
 title: Quarantine Week 8 Coming to an End - Friday Update
 ---
 
-Description
-
 Quarantine is coming to an end. I think I will be back to work next week. It's been a busy week with life. Plants needing to go in the garden, things need fixing around the house. I haven't had a lot of spare time for hobbies which I feel is pretty standard for the warmer months of the year.
 
 When I happen to catch a few moments I have been grinding my way through the [Homeworld](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/) campaign. What a treat it's been. Why did it take 20 years for me to find this game? If you enjoy RTS(real time strategy) games I would definitely suggest picking it up. Wait for a sale on steam you will be in around 6 to 7 dollars.
