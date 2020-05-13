@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Tactic Talisman is blog where I post my thoughts and experiences on my various hobbies and interests. I find that as I write things down it helps me to remember and learn.
+A blog about my experiences and frustrations with my ever changing array of hobbies. I find that as I write things down it helps me to remember and learn.
+
+Here is a list of the things I am posting about.
 
 - [Friday Update Posts](/friday/)
 - [Magic Posts](/magic/)
