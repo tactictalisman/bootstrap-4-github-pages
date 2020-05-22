@@ -14,7 +14,7 @@ Procced to flood the board with 4/4 angel tokens how can this not end in fun?
 
 <div class="row">
   <div class="col-md-12">
-   <img src="{{ site.baseurl }}/images/magic/Empire pf Angels.jpg" class="img-responsive img-rounded" alt="Deck" style="max-width: 1024px; width: 100%; height: auto;">
+   <img src="{{ site.baseurl }}/images/magic/Empire of Angels.JPG" class="img-responsive img-rounded" alt="Deck" style="max-width: 1024px; width: 100%; height: auto;">
   </div>
 </div>
 
