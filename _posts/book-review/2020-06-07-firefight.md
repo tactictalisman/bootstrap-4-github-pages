@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firefight by Brandon Sanderson: In Review
+title: Firefight by Brandon Sanderson In Review
 ---
 
 <div class="row">
