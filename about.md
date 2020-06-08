@@ -8,6 +8,7 @@ A blog about my experiences and frustrations with my ever changing array of hobb
 
 Here is a list of the things I am posting about.
 
+- [Book Review](/book-reviews/)
 - [Friday Update Posts](/friday/)
 - [Magic Posts](/magic/)
 - [Modeling Posts](/modeling/)
