@@ -3,6 +3,8 @@ layout: post
 title: Firefight by Brandon Sanderson In Review
 ---
 
+Book Two, in Sandersons The Reckoners series, has all the feels.
+
 <div class="row">
   <div class="col-md-3">
     <ul>
