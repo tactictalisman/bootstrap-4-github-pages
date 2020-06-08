@@ -6,7 +6,7 @@ title: Firefight by Brandon Sanderson In Review
 Book Two, in Sandersons The Reckoners series, has all the feels.
 
 <div class="row">
-  <div class="col-md-3">
+  <div class="col-md-2">
     <ul>
       <li><strong>Title:</strong></li>
       <li><strong>Author:</strong></li>
@@ -17,7 +17,7 @@ Book Two, in Sandersons The Reckoners series, has all the feels.
       <li><strong>Film Adaptation:</strong></li>
     </ul>
   </div>
-  <div class="col-md-9">
+  <div class="col-md-10">
     <ul style="list-style-type:none;">
       <li><a href="https://en.wikipedia.org/wiki/The_Reckoners">Firefight</a></li>
       <li>Brandon Sanderson</li>
