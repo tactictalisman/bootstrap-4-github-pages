@@ -26,7 +26,7 @@ Book Two, in Sandersons The Reckoners series, has all the feels.
       <li>416 (paper back)</li>
       <li><a href="https://en.wikipedia.org/wiki/The_Reckoners">The Reckoners</a></li>
       <li>none</li>
-    </ol>
+    </ul>
   </div>
 </div>
 
