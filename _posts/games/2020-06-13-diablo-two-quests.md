@@ -160,4 +160,7 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
 </table>
 
 Source: [http://www.d2tomb.com/act_i_quests.shtml](http://www.d2tomb.com/act_i_quests.shtml)
+
+Video Playthrough: [https://www.youtube.com/watch?v=1KC7OzYPIfQ&t=5752s](https://www.youtube.com/watch?v=1KC7OzYPIfQ&t=5752s)
+
 [Read more Video Game Posts](#)
