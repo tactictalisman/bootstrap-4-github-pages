@@ -82,9 +82,80 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <th>Reward</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1 Radament's Lair</td>
+    <td>Kill Radament in Sewer level 2.</td>
+    <td>Extra skill point, the Horadric scroll, and shopping discounts.</td>
+  </tr>
+  <tr>
+    <td>2 The Horadric Staff</td>
+    <td>Re-assemble the Horadric Staff
+      <ul>
+        <li>Cube is in Halls of the Dead</li>
+        <li>Shaft is in Maggot Lair</li> 
+        <li>Amulet is in Claw Viper Temple</li> 
+      </ul>
+    </td>
+    <td>The Horadric Staff</td>
+  </tr>
+  <tr>
+    <td>3 The Tainted Sun</td>
+    <td>Destroy the Claw Viper Altar to end the curse in Claw Viper Temple.</td>
+    <td>Horadric Amulet.</td>
+  </tr>
+  <tr>
+    <td>4 The Arcane Sanctuary</td>
+    <td>Retrieve Horazon's Journal in the Arcane Sanctuary.</td>
+    <td>Symbol identifying the true tomb of Tal Rasha.</td>
+  </tr>
+  <tr>
+    <td>5 The Summoner</td>
+    <td>Kill the Summoner in the Arcane Sanctuary.</td>
+    <td>Magic item.</td>
+  </tr>
+  <tr>
+    <td>6 The Seven Tombs</td>
+    <td>Find the true Tomb of Tal Rasha.</td>
+    <td>Magic item and passage to Act III.</td>
+  </tr>
+</table>
+
+
+##### Act 3 (6 Quests)
+<table class="table table-striped">
+  <tr>
+    <th>Quest</th>
+    <th>Description</th>
+    <th>Reward</th>
+  </tr>
+  <tr>
+    <td>1 The Golden Bird</td>
+    <td>Bring the Golden Bird to Alkor.</td>
+    <td>Potion of Life(20 to life)</td>
+  </tr>
+  <tr>
+    <td>2 Blade of the Old Religion</td>
+    <td>Retrieve the Gidbin Blade in the Flayer Jungle.</td>
+    <td>A rare ring, one free mercenary.</td>
+  </tr>
+  <tr>
+    <td>3 Khalim's Will</td>
+    <td>Re-assemble Khalim's Will</td>
+    <td>Khalim's Will</td>
+  </tr>
+  <tr>
+    <td>4 Lam Esen's Tome</td>
+    <td>Retrieve Lam Esen's Tome</td>
+    <td>5 attribute points, and shopping discounts in Kurast</td>
+  </tr>
+  <tr>
+    <td>5 The Blackened Temple</td>
+    <td>Eliminate the High Council in Travincal</td>
+    <td>Access to the Compelling Orb, Use Khalim's Will to destroy the Compelling Orb, and open the entrance to the Durance of Hate.</td>
+  </tr>
+  <tr>
+    <td>6 The Guardian</td>
+    <td>Defeat Mephisto in the Durance of Hate level 2.</td>
+    <td>Mephisto's Soulstone and access to Act IV.</td>
   </tr>
 </table>
 
