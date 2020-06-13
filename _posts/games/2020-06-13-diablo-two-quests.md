@@ -31,11 +31,11 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
 
 ##### Act 1 (6 Quests)
 <table>
-  <th>
-    <td>Quest</td>
-    <td>Description</td>
-    <td>Reward</td>
-  </th>
+  <tr>
+    <th>Quest</th>
+    <th>Description</th>
+    <th>Reward</th>
+  </tr>
   <tr>
     <td></td>
     <td></td>
