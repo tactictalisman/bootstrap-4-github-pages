@@ -11,11 +11,13 @@ Experience Progression by Levels
 - Clvl 19-23: Act Three
 - Clvl 24-31: Act Four
 - Clvl 32-36: Act Five
+
 ##### Nightmare
 - Clvl 37-43: Act One
 - Clvl 44-48: Act Two
 - Clvl 49-52: Act Three
 - Clvl 53-62: Act Four
+
 ##### Hell
 - Clvl 63-73: Act One
 - Clvl 74-80: Act Two
@@ -29,11 +31,11 @@ Quests and Act Levels
 
 ##### Act 1 (6 Quests)
 <table>
-  <tr>
-    <td>**Quest**</td>
-    <td>**Description**</td>
-    <td>**Reward**</td>
-  </tr>
+  <th>
+    <td>Quest</td>
+    <td>Description</td>
+    <td>Reward</td>
+  </th>
   <tr>
     <td></td>
     <td></td>
@@ -70,6 +72,7 @@ Quests and Act Levels
     <td>Items dropped by Andariel, and access to Act II.</td>
   </tr>
 </table>
+
 
 ##### Act 2 (6 Quests)
 <table>
