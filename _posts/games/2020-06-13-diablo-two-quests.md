@@ -30,7 +30,7 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
 ##### Quests
 
 ##### Act 1 (6 Quests)
-<table>
+<table class="table table-striped">
   <tr>
     <th>Quest</th>
     <th>Description</th>
