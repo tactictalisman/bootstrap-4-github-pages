@@ -14,7 +14,9 @@ Quests and Act Levels
 
 ##### Act 1 (6 Quests)
 **Quest 1:** Den of Evil
+
 **Description:** Kill all the monsters in the Den
+
 **Reward:** one skill point.
 
 **Quest 2:** Sisters' Burial Grounds
