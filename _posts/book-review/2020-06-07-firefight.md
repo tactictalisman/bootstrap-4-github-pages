@@ -5,30 +5,13 @@ title: Firefight by Brandon Sanderson In Review
 
 Book Two, in Sandersons The Reckoners series, has all the feels.
 
-<div class="row">
-  <div class="col-md-2">
-    <ul>
-      <li><strong>Title:</strong></li>
-      <li><strong>Author:</strong></li>
-      <li><strong>Published:</strong></li>
-      <li><strong>Genre:</strong></li>
-      <li><strong>Pages:</strong></li>
-      <li><strong>Series:</strong></li>
-      <li><strong>Film Adaptation:</strong></li>
-    </ul>
-  </div>
-  <div class="col-md-10">
-    <ul style="list-style-type:none;">
-      <li><a href="https://en.wikipedia.org/wiki/The_Reckoners">Firefight</a></li>
-      <li>Brandon Sanderson</li>
-      <li>January 6, 2015</li>
-      <li>Young Adult, Fantasy</li>
-      <li>416 (paper back)</li>
-      <li><a href="https://en.wikipedia.org/wiki/The_Reckoners">The Reckoners</a></li>
-      <li>none</li>
-    </ul>
-  </div>
-</div>
+- **Title**: <a href="https://en.wikipedia.org/wiki/The_Reckoners">Firefight</a>
+- **Author**: Brandon Sanderson
+- **Published**: January 6, 2015
+- **Genre**: Young Adult, Fantasy
+- **Pages**: 416 (paper back)
+- **Series**: Book Two in <a href="https://en.wikipedia.org/wiki/The_Reckoners">The Reckoners</a>
+- **Film**: none
 
 ##### My Thoughts
 
