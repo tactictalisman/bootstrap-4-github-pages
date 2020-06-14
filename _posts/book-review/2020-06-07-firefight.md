@@ -5,7 +5,7 @@ title: Firefight by Brandon Sanderson In Review
 
 Book Two, in Sandersons The Reckoners series, has all the feels.
 
-<table>
+<table class="table">
   <tr>
     <td>Title</td>
     <td><a href="https://en.wikipedia.org/wiki/The_Reckoners">Firefight</a></td>
