@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-A blog about my experiences and frustrations with my ever changing array of hobbies. I find that as I write things down it helps me to remember and learn.
+##### Why a blog?
+By logging my experiences, I hope to share my understanding of the topics and also to better learn and remember them.
 
-Here is a list of the things I am posting about.
-
+##### What do I blog about?
 - [Book Review](/book-reviews/)
 - [Friday Update Posts](/friday/)
 - [Magic Posts](/magic/)
 - [Modeling Posts](/modeling/)
+
+##### How is this blog set up?
+- Hosted using GitHub pages.
+- [With a Bootstrap 4 Jekyll theme.](https://nicolas-van.github.io/bootstrap-4-github-pages/)
