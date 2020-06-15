@@ -10,5 +10,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 - The Reckoners Series by Brandon Sanderson
 - [Stealheart](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 - [Firefight](https://tactictalisman.github.io/2020/06/07/firefight.html)
+- Skyward Series
+- [Starsight by Brandon Sanderson](https://tactictalisman.github.io/2020/05/01/starsight.html)
 
 ##### Non-Fiction
