@@ -3,6 +3,8 @@ layout: post
 title: Starsight by Brandon Sanderson
 ---
 
+Mistakes were made, assumptions were had.
+
 - **Title**: Starsight
 - **Author**: Brandon Sanderson
 - **Published**: November, 2019
