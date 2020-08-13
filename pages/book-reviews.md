@@ -16,3 +16,5 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
   - [Starsight by Brandon Sanderson](https://tactictalisman.github.io/2020/05/01/starsight.html)
 
 ##### Non-Fiction
+
+- [Into Thin Air by Jon Krakauer](https://tactictalisman.github.io/2020/08/12/into-thin-air.html) - August 2020
