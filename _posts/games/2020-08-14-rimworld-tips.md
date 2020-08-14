@@ -7,6 +7,7 @@ Your not in Kansas anymore, you're on Pandora... out there beyond that fence eve
 A few tips and tricks other notes thing I like to remember when playing Rimworld.
 
 ##### Shelter
+- Use Zones to control who can leave the base so people don't go for walks out in unprotected areas.
 - Once established build a bug out shelter on the other side of the map. Stock it with a few stacks of essentials.
   - Stack of Survival Meals
   - Medicine
