@@ -12,6 +12,14 @@ A pet project for a couple of pet cards.
 
 <auto-card-image>Zurgo Helmsmasher</auto-card-image>
 
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4" style="max-width: 400px; width: 100%; height: auto;">
+    <auto-card-image>Zurgo Helmsmasher</auto-card-image>
+  </div>
+  <div class="col-md-4"></div>
+</div>
+
 ##### Theme
 A pretty straight forward zurgo deck. Get Zurgo out, board wipe and swing in for commander damage. A heavy emphasis on instants and sources as we try to keep our board state to a minimum as the goal is to board wipe each turn.
 
