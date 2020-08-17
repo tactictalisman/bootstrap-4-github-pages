@@ -27,10 +27,12 @@ Strong against creature focused decks. Weak against removal as zurgo is easily r
 Ramp up and play equipment, get Zurgo on the board and start swinging. Board wipe and swing.
 
 ##### Notbale Combos
-<auto-card>Sunforger</auto-card> &#43; Instants(like <auto-card>Chaos Warp</auto-card>, <auto-card>Dispatch</auto-card>, <auto-card>Seize the Day</auto-card> to name a few).
+<auto-card>Sunforger</auto-card>&#43;Instants(like <auto-card>Chaos Warp</auto-card>, <auto-card>Dispatch</auto-card>, <auto-card>Seize the Day</auto-card> to name a few).
+
 Pretty straight forward idea with Sunforger using our suit of instants and sorceries we have access to all sorts of utility.
 
-<auto-card>Zurgo Helmsmasher</auto-card> &#43; <auto-card>Worldslayer</auto-card>
+<auto-card>Zurgo Helmsmasher</auto-card>&#43;<auto-card>Worldslayer</auto-card>
+
 With Zurgo online and attaching Worldslayer we have a great one sided board wipe on our turn. Note that Worldslayer will destory everyones lands, so with great power comes great responsible.
 
 [Read more Magic: The Gathering Posts](https://tactictalisman.github.io/magic/)
