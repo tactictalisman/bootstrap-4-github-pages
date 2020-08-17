@@ -10,8 +10,6 @@ A pet project for a couple of pet cards.
 - **Ranking:** 6 out of 10
 - **Deck:** [Moxfield](https://www.moxfield.com/decks/VT6uvkhdRE2lcuGyluU39Q)
 
-<auto-card-image>Zurgo Helmsmasher</auto-card-image>
-
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4" style="max-width: 400px; width: 100%; height: auto;">
