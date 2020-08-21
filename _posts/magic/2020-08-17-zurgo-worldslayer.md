@@ -5,11 +5,6 @@ title: Zurgo Worldslayer
 
 A pet project for a couple of pet cards.
 
-- **Commander:** <auto-card>Zurgo Helmsmasher</auto-card>
-- **Colors:** Red, White, Black 
-- **Ranking:** 6 out of 10
-- **Deck:** [Moxfield](https://www.moxfield.com/decks/VT6uvkhdRE2lcuGyluU39Q)
-
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4" style="max-width: 400px; width: 100%; height: auto;">
@@ -17,6 +12,11 @@ A pet project for a couple of pet cards.
   </div>
   <div class="col-md-4"></div>
 </div>
+
+- **Commander:** <auto-card>Zurgo Helmsmasher</auto-card>
+- **Colors:** Red, White, Black 
+- **Ranking:** 6 out of 10
+- **Deck:** [Moxfield](https://www.moxfield.com/decks/VT6uvkhdRE2lcuGyluU39Q)
 
 ##### Theme
 A pretty straight forward zurgo deck. Get Zurgo out, board wipe and swing in for commander damage. A heavy emphasis on instants and sources as we try to keep our board state to a minimum as the goal is to board wipe each turn.
