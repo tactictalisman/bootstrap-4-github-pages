@@ -14,7 +14,6 @@ Hard casting big stompy creatures, is there any purer form of Magic: The Gatheri
 </div>
 
 - **Commander:** <auto-card>Surrak Dragonclaw</auto-card>
-- **Colors:** Red, White, Black 
 - **Ranking:** 3-4 out of 10
 - **Decklist:** [Moxfield](https://www.moxfield.com/decks/G7EWKdverEaSL9yZsMn-Sw)
 
