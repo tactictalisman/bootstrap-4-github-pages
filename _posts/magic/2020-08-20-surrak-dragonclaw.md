@@ -51,7 +51,7 @@ Also if our mana doublers aren’t online yet we have some other cheat options a
 ##### Late Game
 Our big boys can start hitting the ground. Again these are just a random smattering of cards I happen to have in my binder. Look for creatures that give you some extra benefit when they enter the board or swing not just raw power. For example <auto-card>Desolation Twin</auto-card> gives a copy of himself. <auto-card>Giant Adephage</auto-card> is giving us a copy when he hits a player.
 
-Closing the game. Our win con is in our command zone. <auto-card>Surrak Dragonclaw</auto-card> will give all our creatures trample so we can swing in for damage regardless of creatures stand in our way. <auto-card>End-Raze Forerunners</auto-card> is a back up option to give us trample and swing in.
+Closing the game. Our win con is in our command zone. <auto-card>Surrak Dragonclaw</auto-card> will give all our creatures trample so we can swing in for damage regardless of what creatures might stand in our way. <auto-card>End-Raze Forerunners</auto-card> is a back up option to give us trample and swing in.
 
 While its not the most tricked out deck ever its using up cards I had sitting around in a binder. Sometimes you need a lower powered deck at some tables or to teach someone else how to play.
 
