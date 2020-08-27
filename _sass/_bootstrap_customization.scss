@@ -1,60 +1,25 @@
-// Cyborg 4.3.1
+// Darkly 4.5.2
 // Bootswatch
 
 
 // Variables ===================================================================
 
-$web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" !default;
 @import url($web-font-path);
 
 // Navbar ======================================================================
 
-.navbar {
-
-  &.bg-primary {
-    border: 1px solid $gray-700;
-  }
-
-  &.bg-dark {
-    background-color: $body-bg !important;
-    border: 1px solid $gray-700;
-  }
-
-  &.bg-light {
-    background-color: $gray-500 !important;
-  }
-
-  &.fixed-top {
-    border-width: 0 0 1px 0;
-  }
-
-  &.fixed-bottom {
-    border-width: 1px 0 0 0;
-  }
-
-}
-
 // Buttons =====================================================================
-
-.btn {
-  @each $color, $value in $theme-colors {
-    &-#{$color} {
-      @if $enable-gradients {
-        background: $value linear-gradient(180deg, mix($white, $value, 15%), $value) repeat-x;
-      } @else {
-        background-color: $value;
-      }
-    }
-  }
-}
 
 // Typography ==================================================================
 
-// Tables ======================================================================
-
-table {
-  color: #fff;
+.blockquote {
+  &-footer {
+    color: $gray-600;
+  }
 }
+
+// Tables ======================================================================
 
 .table {
 
@@ -173,46 +138,28 @@ table {
 
 // Forms =======================================================================
 
-legend {
+.input-group-addon {
   color: #fff;
-}
-
-.form-control {
-  background-clip: border-box;
-
-  &:disabled,
-  &[readonly] {
-    border-color: transparent;
-  }
 }
 
 // Navs ========================================================================
 
 .nav-tabs,
 .nav-pills {
-  .nav-link {
+
+  .nav-link,
+  .nav-link.active,
+  .nav-link.active:focus,
+  .nav-link.active:hover,
+  .nav-item.open .nav-link,
+  .nav-item.open .nav-link:focus,
+  .nav-item.open .nav-link:hover {
     color: #fff;
-
-    &:hover {
-      background-color: $gray-700;
-    }
-
-    &.disabled,
-    &.disabled:hover {
-      background-color: transparent;
-      color: $nav-link-disabled-color;
-    }
-
-    &.active {
-      background-color: $primary;
-    }
   }
 }
 
-.breadcrumb {
-  a {
-    color: #fff;
-  }
+.breadcrumb a {
+  color: #fff;
 }
 
 .pagination {
@@ -222,6 +169,15 @@ legend {
 }
 
 // Indicators ==================================================================
+
+.close {
+  opacity: 0.4;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
+}
 
 .alert {
   border: none;
@@ -244,52 +200,21 @@ legend {
   }
 }
 
-.badge {
-  &-warning {
-    color: $white;
-  }
-}
-
-.close {
-  opacity: 0.6;
-
-  &:hover {
-    opacity: 1;
-  }
-}
-
 // Progress bars ===============================================================
 
 // Containers ==================================================================
 
-.list-group-item {
-  &:hover {
+
+.list-group-item-action {
+  color: #fff;
+
+  &:hover,
+  &:focus {
     background-color: $gray-700;
     color: #fff;
   }
 
-  &-action {
-    color: $gray-500;
-
-    .list-group-item-heading {
-      color: $gray-500;
-    }
-  }
-
-  &:hover .list-group-item-heading {
+  .list-group-item-heading {
     color: #fff;
-  }
-}
-
-.card,
-.list-group-item {
-  h1, h2, h3, h4, h5, h6 {
-    color: inherit;
-  }
-}
-
-.popover {
-  &-title {
-    border-bottom: none;
   }
 }
