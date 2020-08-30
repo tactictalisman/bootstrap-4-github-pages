@@ -34,6 +34,6 @@ If we are able to get enough ramp going in the first couple turns we should be a
 
 ##### Late Game
 If you can survive long enough and or protect the dragons you play you will eventually reach a critical mass of dragons. A board full of hug flyers will beat down an enemy pretty quickly.
-If you are able to get <auto-card>The Ur-Dragon</auto-card> and he doesn’t get destroyed he will typically win you the game between his draw and play a card ability or just the raw power of a flyer with 10/10. He typically gets target and removed very quickly so he is best to use as a potential threat. If you have a haste enabler he can be very impactful if he makes it through a round of combat.
+If you are able to get <auto-card>The Ur-Dragon</auto-card> and he doesn’t get destroyed he will typically win you the game between his draw and play a card ability or just the raw power of a flyer with 10/10. He typically gets targeted and removed very quickly so he is best to use as a potential threat. If you have a haste enabler he can be very impactful if he makes it through a round of combat.
 
 [Read more Magic: The Gathering Posts](https://tactictalisman.github.io/magic/)
