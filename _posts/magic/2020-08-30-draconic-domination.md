@@ -7,7 +7,7 @@ My first commander deck, the C17 dragon precon.
 
 - Commander: <auto-card>The Ur-Dragon</auto-card>
 - Rank: Around a 4 out 10
-- Budget: Pre Constructed deck with random upgrades.
+- Budget: Precon list with a few random upgrades.
 - Decklist: [archidekt](https://archidekt.com/decks/760213#Draconic_Domination)
 
 <div class="row">
