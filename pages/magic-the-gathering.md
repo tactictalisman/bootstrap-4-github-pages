@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Magic: The Gathering
+title: Magic The Gathering
 permalink: /magic/
 ---
 
