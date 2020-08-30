@@ -3,7 +3,6 @@ layout: post
 title: Draconic Domination
 ---
 
-(Tagline)
 My first commander deck, the C17 dragon precon.
 
 - Commander: <auto-card>The Ur-Dragon</auto-card>
@@ -11,7 +10,13 @@ My first commander deck, the C17 dragon precon.
 - Budget: Pre Constructed deck with random upgrades.
 - Decklist: [archidekt](https://archidekt.com/decks/760213#Draconic_Domination)
 
-<auto-card-image>The Ur-Dragon</auto-card-image>
+<div class="row">
+  <div class="col-md-4"></div>
+  <div class="col-md-4" style="max-width: 400px; width: 100%; height: auto;">
+    <auto-card-image>The Ur-Dragon</auto-card-image>
+  </div>
+  <div class="col-md-4"></div>
+</div>
 
 #### Theme
 The first commander deck I ever owned. It is a mash up of different cards I have gotten or traded into. The core of the deck is the C17 Draconic Domination. The land base of course needs tuning and all around a little rough around the edges. The current list has a lot of tribal synergies in it. If I find some time and money I may upgrade it one day.
