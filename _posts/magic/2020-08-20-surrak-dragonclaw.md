@@ -5,6 +5,10 @@ title: Surrak Dragonclaw, Binder Pile
 
 Hard casting big stompy creatures, is there any purer form of Magic: The Gathering.
 
+- **Commander:** <auto-card>Surrak Dragonclaw</auto-card>
+- **Ranking:** 3-4 out of 10
+- **Decklist:** [Moxfield](https://www.moxfield.com/decks/G7EWKdverEaSL9yZsMn-Sw)
+
 <div class="row">
   <div class="col-md-4"></div>
   <div class="col-md-4" style="max-width: 400px; width: 100%; height: auto;">
@@ -12,10 +16,6 @@ Hard casting big stompy creatures, is there any purer form of Magic: The Gatheri
   </div>
   <div class="col-md-4"></div>
 </div>
-
-- **Commander:** <auto-card>Surrak Dragonclaw</auto-card>
-- **Ranking:** 3-4 out of 10
-- **Decklist:** [Moxfield](https://www.moxfield.com/decks/G7EWKdverEaSL9yZsMn-Sw)
 
 #### Theme
 This Surrak deck is a list I scraped together from things I had lying around in binders. I picked up maybe twenty dollars of cards to bring it together. It’s not very strong though it is an easy straight forward deck to pilot. A perfect deck for me to hand to new players and beginners without having to teach them anything too complicated. Well except I threw in some counterspells. You gotta learn sometime.
