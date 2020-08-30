@@ -9,9 +9,9 @@ By logging my experiences, I hope to share my understanding of the topics and al
 
 ##### What do I blog about?
 - [Book Review](/book-reviews/)
-- [Friday Update Posts](/friday/)
-- [Magic Posts](/magic/)
-- [Modeling Posts](/modeling/)
+- [Blog Update Posts](/updates/)
+- [Magic: The Gathering Posts](/magic/)
+- [Scaled Modeling Posts](/modeling/)
 
 ##### How is this blog set up?
 - Hosted using GitHub pages.
