@@ -12,6 +12,7 @@ By logging my experiences, I hope to share my understanding of the topics and al
 - [Blog Update Posts](/updates/)
 - [Magic: The Gathering Posts](/magic/)
 - [Scaled Modeling Posts](/modeling/)
+- [Video Games](/video-games/)
 
 ##### How is this blog set up?
 - Hosted using GitHub pages.
