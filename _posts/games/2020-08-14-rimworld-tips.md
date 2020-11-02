@@ -41,4 +41,4 @@ A few tips and tricks other notes thing I like to remember when playing Rimworld
 - Keep downed prisoners to sell as slaves, release for mood bounus, or organ harvesting.
 
 
-[Read more Video Game Posts](#)
+[Read more Video Game Posts](https://tactictalisman.github.io/video-games/)
