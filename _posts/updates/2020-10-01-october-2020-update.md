@@ -21,4 +21,4 @@ I have been playing Rimworld all month. I started collecting some [tips and tric
 #### Scale Modeling
 Last week I started building again and have been going strong since. Hopefully I will get a few pictures posted of the Tiger 1. It has been coming together quite nicely
 
-[Read more Update Posts](#)
+[Read more Update Posts](https://tactictalisman.github.io/updates/)
