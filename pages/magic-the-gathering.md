@@ -9,6 +9,7 @@ When it comes to magic I mainly play commander, well I mainly brew commander dec
 
 #### Builds
 My current decks in order I built them with the most recent first.
+- <auto-card>Zurgo Helmsmasher</auto-card> A Mardu Warrior Tribal deck, with a focus on equipment and creature recursion. ([Decklist](https://www.moxfield.com/decks/JeVGra7hvkqINzT1VMPshw))
 - <auto-card>Breya, Etherium Shaper</auto-card> A artifact token deck with Brudiclad as the secert commander. ([Decklist](https://www.moxfield.com/decks/lV_GxOuEDkSMd54f2H1Y1w))
 - <auto-card>Surrak Dragonclaw</auto-card> A URG creature deck put together from left over cards. ([Post](https://tactictalisman.github.io/2020/08/20/surrak-dragonclaw.html), [Decklist](https://www.moxfield.com/decks/tlLskiCGx0uheZAOzNj5mw))
 - <auto-card>Yawgmoth, Thran Physician</auto-card> A black Zombie Tribal deck with focus on recursion and zombie tokens. ([Decklist](https://www.moxfield.com/decks/tToXQsHiMUC3X8uedeePBQ))
