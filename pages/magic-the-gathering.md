@@ -5,7 +5,7 @@ permalink: /magic/
 ---
 
 #### Commander/EDH Decks
-I mainly play commander, well I mainly brew commander decks and every now and again find a game.
+When it comes to magic I mainly play commander, well I mainly brew commander decks and every now and again find a game.
 
 #### Builds
 My current decks in order I built them with the most recent first.
