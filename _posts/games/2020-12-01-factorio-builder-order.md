@@ -1,4 +1,3 @@
-
 ---
 layout: post
 Title: Factorio Build Order
