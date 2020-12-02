@@ -71,14 +71,13 @@ Namaste. You seek balance. Here is my wisdom. Your mistakes have no cost but tim
 - Upgrades to Infinity
 
 ##### Ratios
-[Factorio Cheat Sheet](https://factoriocheatsheet.com/) - Ratios and mechanics.
-[Kirk McDonald Factorio Calculator](https://kirkmcdonald.github.io/) - Factory planning calculator.
-[Factorio Planner](https://doomeer.com/factorio/) - Factory planning calculator.
+- [Factorio Cheat Sheet](https://factoriocheatsheet.com/) - Ratios and mechanics.
+- [Kirk McDonald Factorio Calculator](https://kirkmcdonald.github.io/) - Factory planning calculator.
+- [Factorio Planner](https://doomeer.com/factorio/) - Factory planning calculator.
 
 ##### Mods I use
 - Bottleneck
 - EvoGUI
 - YARM
-
 
 [Read more Video Game Posts](https://tactictalisman.github.io/video-games/)
