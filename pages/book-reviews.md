@@ -23,6 +23,7 @@ Books organized in order I read them, with the most recent on top.
 - 2020-05 - [Starsight by Brandon Sanderson, Book 2 Skyward Series](https://tactictalisman.github.io/2020/05/01/starsight.html)
 - 2019-10 - [A Princess of Mars by Edgar Rice Burroughs](https://tactictalisman.github.io/2019/10/01/princess-of-mars.html)
 - 2019-01 - [Skyward by Brandon Sanderson, Book 1 Skyward Series](https://tactictalisman.github.io/2019/01/03/skyward.html)
+- 2018-10 - [Golden Son by Pierce Brown, Book 2 Red Rising Series](https://tactictalisman.github.io/2018/10/15/golden-son.html)
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
