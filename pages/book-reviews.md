@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Organized in order I read them, with the most recent on top.
 
+- [Prelude to Foundation](https://tactictalisman.github.io/2021/04/02/prelude-to-foundation.html) - 2021-04
 - [Foundation and Earth by Isaac Asimov](https://tactictalisman.github.io/2021/03/05/foundation-and-earth.html) - 2021-03
 - [Foundation’s Edge by Isaac Asimov](https://tactictalisman.github.io/2021/02/16/foundations-edge.html) - 2021-02
 - [Elantris by Brandon Sanderson](https://tactictalisman.github.io/2020/12/08/elantris.html) - 2020-12
