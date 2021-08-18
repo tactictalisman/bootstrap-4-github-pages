@@ -159,6 +159,69 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
   </tr>
 </table>
 
+##### Act 4 (3 Quests)
+<table class="table table-striped">
+  <tr>
+    <th>Quest</th>
+    <th>Description</th>
+    <th>Reward</th>
+  </tr>
+  <tr>
+    <td>1 The Fallen Angel</td>
+    <td>Defeat Izual.</td>
+    <td>2 skill points</td>
+  </tr>
+  <tr>
+    <td>2 The Hellforge</td>
+    <td>Destroy Mephisto's Soulstone.</td>
+    <td>4 gems (2 flawless, 1 perfect, 1 normal).</td>
+  </tr>
+  <tr>
+    <td>3 Terror's End</td>
+    <td>Defaut Diablo</td>
+    <td>Access to Act V</td>
+  </tr>
+</table>
+
+##### Act 5 (6 Quests)
+<table class="table table-striped">
+  <tr>
+    <th>Quest</th>
+    <th>Description</th>
+    <th>Reward</th>
+  </tr>
+  <tr>
+    <td>1 Siege on Harrogath</td>
+    <td>Kill Shenk the Overseer.</td>
+    <td>Add a socket to an item</td>
+  </tr>
+  <tr>
+    <td>2 Rescue on Mount Arreat</td>
+    <td>Release the imprisoned Barbarians.</td>
+    <td>Ability to hire Barbarians, and 3 Runes.</td>
+  </tr>
+  <tr>
+    <td>3 Prison of Ice</td>
+    <td>Rescue Anya</td>
+    <td>+10 to all resistances, and a rare, class-specific item</td>
+  </tr>
+  <tr>
+    <td>4 Betrayal of Harrogath</td>
+    <td>Defaut Nihlathak</td>
+    <td>Item personalization from Malah</td>
+  </tr>
+  <tr>
+    <td>5 Rite of Passage</td>
+    <td>Defaut the three Ancients</td>
+    <td>Experience points</td>
+  </tr>
+  <tr>
+    <td>6 Eve of Destruction</td>
+    <td>Defaut Baal</td>
+    <td>Complete the game, new title</td>
+  </tr>
+</table>
+
 Source: [http://www.d2tomb.com/act_i_quests.shtml](http://www.d2tomb.com/act_i_quests.shtml)
 
 Video Playthrough: [https://www.youtube.com/watch?v=1KC7OzYPIfQ&t=5752s](https://www.youtube.com/watch?v=1KC7OzYPIfQ&t=5752s)
