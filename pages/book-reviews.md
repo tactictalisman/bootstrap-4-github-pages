@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2021-07 - [Lord of Opium by Nancy Farmer](https://tactictalisman.github.io/2021/07/15/lord-of-opium.html)
 - 2021-07 - [The House of the Scorpion by Nancy Farmer](https://tactictalisman.github.io/2021/07/01/house-of-the-scorpion.html)
 - 2021-05 - [Forward the Foundation by Isaac Asimov](https://tactictalisman.github.io/2021/05/12/forward-the-foundation.html)
 - 2021-04 - [Prelude to Foundation by Isaac Asimov](https://tactictalisman.github.io/2021/04/02/prelude-to-foundation.html) 
