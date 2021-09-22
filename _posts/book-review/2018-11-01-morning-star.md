@@ -3,7 +3,7 @@ layout: post
 title: Morning Star by Pierce Brown
 ---
 
-Let the bodies hit the floor.
+The beginning of an end.
 
 - **Title**: Morning Star
 - **Author**: Pierce Brown
