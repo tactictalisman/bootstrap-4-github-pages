@@ -16,10 +16,12 @@ Meteor Orb
 - Frozen Armor 1
 - Max Frozen Orb
 - Cold Mastery 6+
+
 #### Lighting
 - Static Field 1
 - Telekinesis 1
 - Teleport 1
+
 #### Fire
 - Inferno 1 prereq
 - Blaze 1 prereq
