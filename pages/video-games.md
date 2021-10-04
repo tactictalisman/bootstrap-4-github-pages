@@ -5,6 +5,7 @@ permalink: /video-games/
 ---
 ##### Diablo 2
 - [Diablo 2 Quests and Resources](https://tactictalisman.github.io/2020/06/13/diablo-two-quests.html)
+- [Meteor Orb Sorceress Build](https://tactictalisman.github.io/2021/10/01/meteor-orb-sorc-build.html)
 
 ##### Factorio
 - [Factorio Build Order](https://tactictalisman.github.io/2020/12/01/factorio-builder-order.html)
