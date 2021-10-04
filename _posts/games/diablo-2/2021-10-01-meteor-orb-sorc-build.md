@@ -8,9 +8,9 @@ Starting Sorceress Build Meteor, Forzen Orb
 
 ### Build
 Meteor Orb
-Cold
-    Ice Bolt 1
-    Ice Blast 1
+- Cold
+ - Ice Bolt 1
+ - Ice Blast 1
     Glacial Spike 1
     Frost Nova 1
     Blizzard 1
@@ -33,44 +33,44 @@ Meteor Max
 
 
 #### Rough Distribution
-Level 2 - 1 Fire Bolt
-Level 3 - 1 Warmth
-Den of Evil - 1 Ice Bolt
-Level 4 - Save
-Level 5 - Save
-Level 6 - 1 Ice Blast, 1 Frost Nova, 1 Static Field
-Level 7 - 1 Telekinesis
-Level 8 - 1 Inferno
-Level 9 - Save
-Level 10 - Save
-Level 11 - Save
-Level 12 - 1 Fire Ball, 1 Blaze
-Level 13 - Save
-Level 14 - Save
-Level 15 - Save
-Radament - Save
-Level 16 - Save
-Level 17 - Save
-Level 18 - 1 Teleport, 1 Glacial Spike, 1 Fire Wall
-Level 19 - Save
-Level 20 - Save
-Izual - Save
-Level 21 - Save
-Level 22 - Save
-Level 23 - Save
-Level 24 - 1 Meteor, 1 Blizzard
-Level 25 - 1 Meteor
-Level 26 - 1 Meteor
-Level 27 - 1 Meteor
-Level 28 - 1 Meteor
-Level 29 - 1 Meteor
-Level 30 - 1 Meteor, 1 Frozen Orb, 1 Fire Mastery, 1 Cold Mastery
-Max Frozen Orb
-Cold Mastery 6+
-Max Meteor
-Max Fire Ball
-Max Fire Mastery
-Around 88 rest into Fire Bolt
+- Level 2 - 1 Fire Bolt
+- Level 3 - 1 Warmth
+- Den of Evil - 1 Ice Bolt
+- Level 4 - Save
+- Level 5 - Save
+- Level 6 - 1 Ice Blast, 1 Frost Nova, 1 Static Field
+- Level 7 - 1 Telekinesis
+- Level 8 - 1 Inferno
+- Level 9 - Save
+- Level 10 - Save
+- Level 11 - Save
+- Level 12 - 1 Fire Ball, 1 Blaze
+- Level 13 - Save
+- Level 14 - Save
+- Level 15 - Save
+- Radament - Save
+- Level 16 - Save
+- Level 17 - Save
+- Level 18 - 1 Teleport, 1 Glacial Spike, 1 Fire Wall
+- Level 19 - Save
+- Level 20 - Save
+- Izual - Save
+- Level 21 - Save
+- Level 22 - Save
+- Level 23 - Save
+- Level 24 - 1 Meteor, 1 Blizzard
+- Level 25 - 1 Meteor
+- Level 26 - 1 Meteor
+- Level 27 - 1 Meteor
+- Level 28 - 1 Meteor
+- Level 29 - 1 Meteor
+- Level 30 - 1 Meteor, 1 Frozen Orb, 1 Fire Mastery, 1 Cold Mastery
+- Max Frozen Orb
+- Cold Mastery 6+
+- Max Meteor
+- Max Fire Ball
+- Max Fire Mastery
+- Around 88 rest into Fire Bolt
 
 [Build source](https://diablo-archive.fandom.com/wiki/MeteOrb_Sorceress_by_Lethal_Weapon)
 
