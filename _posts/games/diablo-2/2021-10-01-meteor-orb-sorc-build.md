@@ -1,4 +1,3 @@
-
 ---
 layout: post
 Title: Meteor Orb Sorceress build Guide for Diablo 2
@@ -8,31 +7,30 @@ Starting Sorceress Build Meteor, Forzen Orb
 
 ### Build
 Meteor Orb
-- Cold
- - Ice Bolt 1
- - Ice Blast 1
-    Glacial Spike 1
-    Frost Nova 1
-    Blizzard 1
-    Frozen Armor 1
-    Max Frozen Orb
-    Cold Mastery 6+
-Lighting
-    Static Field 1
-    Telekinesis 1
-    Teleport 1
-Fire
-    Inferno 1 prereq
-    Blaze 1 prereq
-    Firewall 1 prereq
-    Warmth 1
-    Fire Bolt 1 prereq remaining
-Meteor Max
-    Fire Ball Max
-    Fire Mastery Max
+#### Cold
+- Ice Bolt 1
+- Ice Blast 1
+- Glacial Spike 1
+- Frost Nova 1
+- Blizzard 1
+- Frozen Armor 1
+- Max Frozen Orb
+- Cold Mastery 6+
+#### Lighting
+- Static Field 1
+- Telekinesis 1
+- Teleport 1
+#### Fire
+- Inferno 1 prereq
+- Blaze 1 prereq
+- Firewall 1 prereq
+- Warmth 1
+- Fire Bolt 1 prereq remaining
+- Meteor Max
+- Fire Ball Max
+- Fire Mastery Max
 
-
-#### Rough Distribution
+#### Rough Skill Distribution by Level
 - Level 2 - 1 Fire Bolt
 - Level 3 - 1 Warmth
 - Den of Evil - 1 Ice Bolt
