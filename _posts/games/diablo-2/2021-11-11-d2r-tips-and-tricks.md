@@ -1,4 +1,3 @@
-
 ---
 layout: post
 Title: D2R Tips and Tricks
