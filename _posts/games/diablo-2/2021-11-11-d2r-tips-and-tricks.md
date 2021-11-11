@@ -18,6 +18,7 @@ Same with shield types.
 ##### When to move on to the next difficulty?
 - Nightmare around 40 to 45
 - Hell at 75 +
+
 Note to do ancients level requirements are:
 - 20 in Normal
 - 40 in NM
