@@ -71,11 +71,11 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Kill Andariel in the Catacombs level 4.</td>
     <td>Items dropped by Andariel, and access to Act II.</td>
   </tr>
-</table>
-
-
-##### Act 2 (6 Quests)
-<table class="table table-striped">
+  <tr>
+    <th>##### Act 2 (6 Quests)</th>
+    <th>Description</th>
+    <th>Reward</th>
+  </tr>
   <tr>
     <th>Quest</th>
     <th>Description</th>
