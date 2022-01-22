@@ -72,9 +72,7 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Items dropped by Andariel, and access to Act II.</td>
   </tr>
   <tr>
-    <th>##### Act 2 (6 Quests)</th>
-    <th>Description</th>
-    <th>Reward</th>
+    <th rowspan="3"><h3>Act 2 (6 Quests)</h3></th>
   </tr>
   <tr>
     <th>Quest</th>
@@ -90,9 +88,9 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>2 The Horadric Staff</td>
     <td>Re-assemble the Horadric Staff
       <ul>
-        <li>Cube is in Halls of the Dead</li>
-        <li>Shaft is in Maggot Lair</li> 
-        <li>Amulet is in Claw Viper Temple</li> 
+        <li>Cube is in Halls of the Dead level 3.</li>
+        <li>Shaft is in Maggot Lair level 3.</li> 
+        <li>Amulet is in Claw Viper Temple level 2.</li> 
       </ul>
     </td>
     <td>The Horadric Staff</td>
