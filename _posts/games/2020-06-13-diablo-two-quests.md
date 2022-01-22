@@ -129,7 +129,7 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
   </tr>
   <tr>
     <td>1 The Golden Bird</td>
-    <td>Bring the Golden Bird to Alkor.</td>
+    <td>Bring the Golden Bird to Alkor found from any unique in Spider Forest.</td>
     <td>Potion of Life(20 to life)</td>
   </tr>
   <tr>
@@ -139,12 +139,20 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
   </tr>
   <tr>
     <td>3 Khalim's Will</td>
-    <td>Re-assemble Khalim's Will</td>
+    <td>Re-assemble Khalim's Will
+      <ul>
+        <li>Khalim's Eye is in the Spider Cavern</li>
+        <li>Khalim's Brain is in Flayer Dungeon(level 3)</li> 
+        <li>Khalim's Heart is in Sewers of Kurast Bazaar</li>
+        <li>Khalim's Flail is in Travincal from High Council</li>
+      </ul>
+    </td>
     <td>Khalim's Will</td>
   </tr>
   <tr>
     <td>4 Lam Esen's Tome</td>
-    <td>Retrieve Lam Esen's Tome</td>
+    <td>Retrieve Lam Esen's Tome found in<br>
+    1 of the 6 ruined temples in the 3 Kurast areas.</td>
     <td>5 attribute points, and shopping discounts in Kurast</td>
   </tr>
   <tr>
@@ -168,7 +176,7 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
   </tr>
   <tr>
     <td>1 The Fallen Angel</td>
-    <td>Defeat Izual.</td>
+    <td>Defeat Izual in the Plains of Despair.</td>
     <td>2 skill points</td>
   </tr>
   <tr>
@@ -197,12 +205,12 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
   </tr>
   <tr>
     <td>2 Rescue on Mount Arreat</td>
-    <td>Release the imprisoned Barbarians.</td>
+    <td>Release the imprisoned Barbarians in Frigid Highlands.</td>
     <td>Ability to hire Barbarians, and 3 Runes.</td>
   </tr>
   <tr>
     <td>3 Prison of Ice</td>
-    <td>Rescue Anya</td>
+    <td>Rescue Anya in Frozen River.</td>
     <td>+10 to all resistances, and a rare, class-specific item</td>
   </tr>
   <tr>
