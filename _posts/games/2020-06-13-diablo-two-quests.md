@@ -27,19 +27,18 @@ Experience Progression by Levels
 
 Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10)
 
-##### Quests
+#### Quests
 
-##### Act 1 (6 Quests)
 <table class="table table-striped">
+  <tr>
+    <th></th>
+    <th><h3>Act 1 (6 Quests)</h3></th>
+    <th></th>
+  </tr>
   <tr>
     <th>Quest</th>
     <th>Description</th>
     <th>Reward</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>1 Den of Evil</td>
@@ -72,8 +71,8 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Items dropped by Andariel, and access to Act II.</td>
   </tr>
   <tr>
-    <th><h3>Act 2 (6 Quests)</h3></th>
     <th></th>
+    <th><h3>Act 2 (6 Quests)</h3></th>
     <th></th>
   </tr>
   <tr>
@@ -117,11 +116,11 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Find the true Tomb of Tal Rasha.</td>
     <td>Magic item and passage to Act III.</td>
   </tr>
-</table>
-
-
-##### Act 3 (6 Quests)
-<table class="table table-striped">
+  <tr>
+    <th></th>
+    <th><h3>Act 3 (6 Quests)</h3></th>
+    <th></th>
+  </tr>
   <tr>
     <th>Quest</th>
     <th>Description</th>
@@ -165,10 +164,11 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Defeat Mephisto in the Durance of Hate level 2.</td>
     <td>Mephisto's Soulstone and access to Act IV.</td>
   </tr>
-</table>
-
-##### Act 4 (3 Quests)
-<table class="table table-striped">
+  <tr>
+    <th></th>
+    <th><h3>Act 4 (3 Quests)</h3></th>
+    <th></th>
+  </tr>
   <tr>
     <th>Quest</th>
     <th>Description</th>
@@ -189,10 +189,11 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Defaut Diablo</td>
     <td>Access to Act V</td>
   </tr>
-</table>
-
-##### Act 5 (6 Quests)
-<table class="table table-striped">
+  <tr>
+    <th></th>
+    <th><h3>Act 5 (6 Quests)</h3></th>
+    <th></th>
+  </tr>
   <tr>
     <th>Quest</th>
     <th>Description</th>
