@@ -72,7 +72,9 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>Items dropped by Andariel, and access to Act II.</td>
   </tr>
   <tr>
-    <th rowspan="3"><h3>Act 2 (6 Quests)</h3></th>
+    <th><h3>Act 2 (6 Quests)</h3></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <th>Quest</th>
@@ -139,10 +141,10 @@ Source: [https://diablo2.diablowiki.net/Guide:Diablo_2_Level_Up_Guide_v1.10](htt
     <td>3 Khalim's Will</td>
     <td>Re-assemble Khalim's Will
       <ul>
-        <li>Khalim's Eye is in the Spider Cavern</li>
-        <li>Khalim's Brain is in Flayer Dungeon(level 3)</li> 
-        <li>Khalim's Heart is in Sewers of Kurast Bazaar</li>
-        <li>Khalim's Flail is in Travincal from High Council</li>
+        <li>Khalim's Eye is in the Spider Cavern in the Spider Forest.</li>
+        <li>Khalim's Brain is in Flayer Dungeon level 3 in Flayer Jungle.</li> 
+        <li>Khalim's Heart is in Sewers of Kurast Bazaar.</li>
+        <li>Khalim's Flail is in Travincal from High Council.</li>
       </ul>
     </td>
     <td>Khalim's Will</td>
