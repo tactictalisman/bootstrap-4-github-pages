@@ -20,7 +20,7 @@ A compilation of Preconstructed Commander/EDH decklists in Moxfield. With most d
 - [Dungeons of Death](https://www.moxfield.com/decks/N_jRGUWpLkKnt9vI2-dnWA) - <auto-card>Sefris of the Hidden Ways</auto-card>
 - [Draconic Rage](https://www.moxfield.com/decks/Eu9DpJYtSE6TitburmnuKg) - <auto-card>Vrondis, Rage of Ancients</auto-card>
 
-##### AFC - Adventures in the Forgotten Realms
+##### C21 - Strixhaven
 - [Lorehold Legacies](https://www.moxfield.com/decks/Euovk_53NEGEhFCcqzunhg) - <auto-card>Osgir, the Reconstructor</auto-card>
 - [Prismari Performance](https://www.moxfield.com/decks/MsQZEec_T0K0FWIitOVeZg) - <auto-card>Zaffai, Thunder Conductor</auto-card>
 - [Quantum Quandrix](https://www.moxfield.com/decks/2larNt3jlki8FIE9AqFq_g) - <auto-card>Adrix and Nev, Twincasters</auto-card>
