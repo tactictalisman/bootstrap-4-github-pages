@@ -32,6 +32,7 @@ Books organized in order I read them, with the most recent on top.
 - 2018-11 - [Morning Star by Pierce Brown, Book 3 Red Rising Series](https://tactictalisman.github.io/2018/11/01/morning-star.html)
 - 2018-10 - [Golden Son by Pierce Brown, Book 2 Red Rising Series](https://tactictalisman.github.io/2018/10/15/golden-son.html)
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
+- 2018-04 - [Atlas Shrugged by Ayn Rand](https://tactictalisman.github.io/2018/04/27/atlas-shrugged.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
 
