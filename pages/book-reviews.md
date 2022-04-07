@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2022-03 - [Reread: The Fires of Heaven by Robert Jordan, Book 5 in The Wheel of Time series](https://tactictalisman.github.io/2022/03/01/fires-of-heaven-2022-reread.html)
 - 2022-01 - [Reread: The Shadow Rising by Robert Jordan, Book 4 in The Wheel of Time series](https://tactictalisman.github.io/2022/01/15/shadow-rising-reread.html)
 - 2021-11 - [Reread: The Dragon Reborn by Robert Jordan, Book 3 in The Wheel of Time series](https://tactictalisman.github.io/2021/11/01/dragon-reborn-reread.html)
 - 2021-09 - [Reread: The Great Hunt by Robert Jordan, Book 2 in The Wheel of Time series](https://tactictalisman.github.io/2021/09/15/the-great-hunt-2021-reread.html)
