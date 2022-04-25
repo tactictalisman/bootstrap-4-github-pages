@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2022-04 - [Reread: Lord of Chaos by Robert Jordan, Book 6 in The Wheel of Time series](https://tactictalisman.github.io/2022/04/24/lord-of-chaos-2022-reread.html)
 - 2022-03 - [Reread: The Fires of Heaven by Robert Jordan, Book 5 in The Wheel of Time series](https://tactictalisman.github.io/2022/03/01/fires-of-heaven-2022-reread.html)
 - 2022-01 - [Reread: The Shadow Rising by Robert Jordan, Book 4 in The Wheel of Time series](https://tactictalisman.github.io/2022/01/15/shadow-rising-reread.html)
 - 2021-11 - [Reread: The Dragon Reborn by Robert Jordan, Book 3 in The Wheel of Time series](https://tactictalisman.github.io/2021/11/01/dragon-reborn-reread.html)
@@ -34,6 +35,8 @@ Books organized in order I read them, with the most recent on top.
 - 2018-10 - [Golden Son by Pierce Brown, Book 2 Red Rising Series](https://tactictalisman.github.io/2018/10/15/golden-son.html)
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
 - 2018-04 - [Atlas Shrugged by Ayn Rand](https://tactictalisman.github.io/2018/04/27/atlas-shrugged.html)
+- 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/01/oathbringer.html)
+- 2018-03 - [Leviathan Wakes by James S. A. Corey ](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
 
