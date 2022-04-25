@@ -36,7 +36,8 @@ Books organized in order I read them, with the most recent on top.
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
 - 2018-04 - [Atlas Shrugged by Ayn Rand](https://tactictalisman.github.io/2018/04/27/atlas-shrugged.html)
 - 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/01/oathbringer.html)
-- 2018-03 - [Leviathan Wakes by James S. A. Corey ](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
+- 2018-03 - [Leviathan Wakes by James S. A. Corey](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
+- 2018-03 - [Chapterhouse Dune by Frank Herbert](https://tactictalisman.github.io/2018/04/13/chapterhouse-dune.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
 
