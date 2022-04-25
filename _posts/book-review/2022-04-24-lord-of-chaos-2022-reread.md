@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lord of Chaos by Robert Jordan
+title: Lord of Chaos by Robert Jordan 2022 Reread
 ---
 
 Let the Lord of Chaos rule.
