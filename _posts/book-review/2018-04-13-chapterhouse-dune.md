@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapterhouse: Dune by Frank Herbert
+title: Chapterhouse Dune by Frank Herbert
 ---
 
 The spice is still flowing.
