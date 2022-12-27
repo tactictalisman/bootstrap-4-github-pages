@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2022-08 - [Reread: The Path of Daggers by Robert Jordan, Book 8 in The Wheel of Time series](https://tactictalisman.github.io/2022/08/01/path-of-daggers-2022-reread.html)
 - 2022-04 - [Reread: A Crown of Swords by Robert Jordan, Book 7 in The Wheel of Time series](https://tactictalisman.github.io/2022/06/01/crown-of-swords-2022-reread.html)
 - 2022-04 - [Reread: Lord of Chaos by Robert Jordan, Book 6 in The Wheel of Time series](https://tactictalisman.github.io/2022/04/24/lord-of-chaos-2022-reread.html)
 - 2022-03 - [Reread: The Fires of Heaven by Robert Jordan, Book 5 in The Wheel of Time series](https://tactictalisman.github.io/2022/03/01/fires-of-heaven-2022-reread.html)
@@ -39,6 +40,8 @@ Books organized in order I read them, with the most recent on top.
 - 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/01/oathbringer.html)
 - 2018-03 - [Leviathan Wakes by James S. A. Corey](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
 - 2018-03 - [Chapterhouse Dune by Frank Herbert](https://tactictalisman.github.io/2018/04/13/chapterhouse-dune.html)
+- 2017-12 - [The Two Towers by J.R.R Tolkien](https://tactictalisman.github.io/2017/12/15/two-rivers-2017-reread.html)
+- 2017-10 - [The Fellowship of the Ring by J.R.R Tolkien, Book 1 The Lord of the Rings](https://tactictalisman.github.io/2017/10/01/fellowship-of-the-ring.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
 
