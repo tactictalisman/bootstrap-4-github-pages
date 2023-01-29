@@ -9,6 +9,8 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2022-12 - [Reread: New Spring by Robert Jordan, Prequel in The Wheel of Time series](https://tactictalisman.github.io/2022/12/27/new-spring-2022.html)
+- 2022-10 - [Reread: Winter's Heart by Robert Jordan, Book 9 in The Wheel of Time series](https://tactictalisman.github.io/2022/10/01/winters-heart-2022.html)
 - 2022-08 - [Reread: The Path of Daggers by Robert Jordan, Book 8 in The Wheel of Time series](https://tactictalisman.github.io/2022/08/01/path-of-daggers-2022-reread.html)
 - 2022-06 - [Reread: A Crown of Swords by Robert Jordan, Book 7 in The Wheel of Time series](https://tactictalisman.github.io/2022/06/01/crown-of-swords-2022-reread.html)
 - 2022-04 - [Reread: Lord of Chaos by Robert Jordan, Book 6 in The Wheel of Time series](https://tactictalisman.github.io/2022/04/24/lord-of-chaos-2022-reread.html)
