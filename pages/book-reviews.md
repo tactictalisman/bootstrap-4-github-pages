@@ -43,7 +43,7 @@ Books organized in order I read them, with the most recent on top.
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
 - 2018-04 - [Atlas Shrugged by Ayn Rand](https://tactictalisman.github.io/2018/04/27/atlas-shrugged.html)
 - 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/01/oathbringer.html)
-- 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/21/lord-of-the-rings.html)
+- 2018-04 - [The Return of the King by J.R.R Tolkien, Book 3 The Lord of the Rings](https://tactictalisman.github.io/2018/04/21/lord-of-the-rings.html)
 - 2018-03 - [Leviathan Wakes by James S. A. Corey](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
 - 2018-03 - [Chapterhouse Dune by Frank Herbert](https://tactictalisman.github.io/2018/04/13/chapterhouse-dune.html)
 - 2017-12 - [The Two Towers by J.R.R Tolkien, Book 2 The Lord of the Rings](https://tactictalisman.github.io/2017/12/15/two-rivers-2017-reread.html)
