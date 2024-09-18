@@ -9,6 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
+- 2023-04 - [Reread: The Gathering Storm by Robert Jordan and Brandon Sanderson, Book 12 in The Wheel of Time series](https://tactictalisman.github.io/2023/04/04/the-gathering-storm.md)
 - 2023-03 - [Reread: Knife of Dreams by Robert Jordan, Book 11 in The Wheel of Time series](https://tactictalisman.github.io/2023/03/15/knife-of-dreams-2023-reread.html)
 - 2023-02 - [Reread: Crossroads of Twilight by Robert Jordan, Book 10 in The Wheel of Time series](https://tactictalisman.github.io/2023/02/15/crossroads-of-twilight-reread.html)
 - 2022-12 - [Reread: New Spring by Robert Jordan, Prequel in The Wheel of Time series](https://tactictalisman.github.io/2022/12/27/new-spring-2022.html)
