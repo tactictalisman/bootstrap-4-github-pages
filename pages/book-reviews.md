@@ -9,7 +9,7 @@ Reading books is one of my favorite passtimes. I like to keep a few notes as to 
 ##### Fiction
 Books organized in order I read them, with the most recent on top.
 
-- 2023-04 - [Reread: The Gathering Storm by Robert Jordan and Brandon Sanderson, Book 12 in The Wheel of Time series](https://tactictalisman.github.io/2023/04/04/the-gathering-storm.md)
+- 2023-04 - [Reread: The Gathering Storm by Robert Jordan and Brandon Sanderson, Book 12 in The Wheel of Time series](https://tactictalisman.github.io/2023/04/04/the-gathering-storm.html)
 - 2023-03 - [Reread: Knife of Dreams by Robert Jordan, Book 11 in The Wheel of Time series](https://tactictalisman.github.io/2023/03/15/knife-of-dreams-2023-reread.html)
 - 2023-02 - [Reread: Crossroads of Twilight by Robert Jordan, Book 10 in The Wheel of Time series](https://tactictalisman.github.io/2023/02/15/crossroads-of-twilight-reread.html)
 - 2022-12 - [Reread: New Spring by Robert Jordan, Prequel in The Wheel of Time series](https://tactictalisman.github.io/2022/12/27/new-spring-2022.html)
@@ -43,6 +43,7 @@ Books organized in order I read them, with the most recent on top.
 - 2018-10 - [Red Rising by Pierce Brown, Book 1 Red Rising Series](https://tactictalisman.github.io/2018/10/01/red-rising.html)
 - 2018-04 - [Atlas Shrugged by Ayn Rand](https://tactictalisman.github.io/2018/04/27/atlas-shrugged.html)
 - 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/01/oathbringer.html)
+- 2018-04 - [Oathbringer By Brandon Sanderson](https://tactictalisman.github.io/2018/04/21/lord-of-the-rings.html)
 - 2018-03 - [Leviathan Wakes by James S. A. Corey](https://tactictalisman.github.io/2018/03/23/leviathan-wakes.html)
 - 2018-03 - [Chapterhouse Dune by Frank Herbert](https://tactictalisman.github.io/2018/04/13/chapterhouse-dune.html)
 - 2017-12 - [The Two Towers by J.R.R Tolkien, Book 2 The Lord of the Rings](https://tactictalisman.github.io/2017/12/15/two-rivers-2017-reread.html)
