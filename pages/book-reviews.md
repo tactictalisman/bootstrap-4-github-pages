@@ -48,6 +48,7 @@ Books organized in order I read them, with the most recent on top.
 - 2018-03 - [Chapterhouse Dune by Frank Herbert](https://tactictalisman.github.io/2018/04/13/chapterhouse-dune.html)
 - 2017-12 - [The Two Towers by J.R.R Tolkien, Book 2 The Lord of the Rings](https://tactictalisman.github.io/2017/12/15/two-rivers-2017-reread.html)
 - 2017-10 - [The Fellowship of the Ring by J.R.R Tolkien, Book 1 The Lord of the Rings](https://tactictalisman.github.io/2017/10/01/fellowship-of-the-ring.html)
+- 2017-09 - [Words of Radiance 2017 Reread by Brandon Sanderson](https://tactictalisman.github.io/2017/09/15/-words-of-radiance-2017-reread.html)
 - 2014-01 - [Stealheart by Brandon Sanderson, Book 1 Reckoners Series](https://tactictalisman.github.io/2014/01/15/steelheart.html)
 
 
